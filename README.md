@@ -7,6 +7,11 @@ At the moment the discord does not provide to receive the full number of message
 
 Also for that u need install node.
 
+
+## Requirements
+
+- Bot and user must have MANAGE GUILD() permissions 
+
 ## Features
 
 - Set banner
