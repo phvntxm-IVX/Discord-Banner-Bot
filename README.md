@@ -10,6 +10,7 @@ Also for that u need install node.
 
 ## Requirements
 
+- [Node.js](https://nodejs.org/) for install packages and bot running
 - Bot and user must have MANAGE GUILD() permissions 
 
 ## Features
