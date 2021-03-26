@@ -1,0 +1,33 @@
+{
+  "name": "discord-banner-bot-main",
+  "version": "1.0.0",
+  "description": "description",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^2.7.0",
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phvntxm-IVX/Discord-Banner-Bot.git"
+  },
+  "keywords": [
+    "nodejs",
+    "discord",
+    "discord-js",
+    "discord-bot",
+    "discord-banner-bot",
+    "bot"
+  ],
+  "author": "phvntxm-IVX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phvntxm-IVX/Discord-Banner-Bot/issues"
+  },
+  "homepage": "https://github.com/phvntxm-IVX/Discord-Banner-Bot#readme"
+}
