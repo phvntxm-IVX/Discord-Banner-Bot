@@ -46,6 +46,24 @@ Or
 node index.js
 ```
 
+## Commands
+
+- Starting banner updating
+```sh
+z!banner update start
+``` 
+
+- Stoping banner updating
+```sh
+z!banner updaet stop
+```
+
+- Change value of messages
+Example
+```sh
+z!message count mofify 15000 
+```
+
 ## Customization
 
 You can change all options, icons and others.
