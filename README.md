@@ -75,6 +75,6 @@ z!message count mofify 15000
 You can change all options, icons and others.
 
 if you have any problems / questions about the setup you can contact me on the discord I will try to help you.
-- xAmi#0887
+- Atanasia#0147
 
 I have no experience with markdown so sorry for that sh.t lol.
