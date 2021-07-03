@@ -137,12 +137,12 @@ client.on('message', message => {
 		else if (message.content.startsWith(`${prefix}message count modify `)) {
 			let command = message.content.split(' ');
 			if(isNaN(parseInt(command[command.length - 1])))
-			  message.reply('enter a numeric parameter.');
+			  message.reply('Enter a numeric parameter.');
 			else{
 			  try {
 				guilds[message.guild.id].messageCount = parseInt(command[command.length - 1]);
 				fs.writeFileSync('./guilds.json', JSON.stringify(guilds));
-				message.reply(`messages value has been changed for ${guilds[message.guild.id].messageCount} `)
+				message.reply(`Messages value has been changed for ${guilds[message.guild.id].messageCount} `)
 			  } catch(err) {
 				console.error(err);
 			  }
