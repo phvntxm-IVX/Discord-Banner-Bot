@@ -69,12 +69,3 @@ Example
 ```sh
 z!message count mofify 15000 
 ```
-
-## Customization
-
-You can change all options, icons and others.
-
-if you have any problems / questions about the setup you can contact me on the discord I will try to help you.
-- Atanasia#0147
-
-I have no experience with markdown so sorry for that sh.t lol.
